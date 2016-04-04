@@ -70,7 +70,7 @@ h3 {
     position: absolute;
     border-color: black;
     border-style: solid;
-    border-width: 1px;
+    border-width: 4px;
     left: 5px;
     top: 150px;
     z-index: 1;
@@ -83,7 +83,7 @@ h3 {
     position: absolute;
     border-color: black;
     border-style: solid;
-    border-width: 1px;
+    border-width: 4px;
     left: 210px;
     top: 150px;
     z-index: 1;
@@ -94,13 +94,13 @@ h3 {
   height: 300px;
     width: 200px;
     position: absolute;
-    border-color: black;
+    border-color: blue;
     border-style: solid;
-    border-width: 1px;
+    border-width: 4px;
     left: 415px;
     top: 150px;
     z-index: 1;
-    background-color: white;
+    background-color: indigo;
 
 }
 
@@ -108,13 +108,13 @@ h3 {
   height: 300px;
     width: 200px;
     position: absolute;
-    border-color: black;
+    border-color: indigo;
     border-style: solid;
-    border-width: 1px;
+    border-width: 4px;
     left: 620px;
     top: 150px;
     z-index: 1;
-    background-color: white;
+    background-color: blue;
 
 }
 
@@ -122,10 +122,10 @@ h3 {
   height: 300px;
     width: 200px;
     position: absolute;
-    border-color: black;
+    border-color: blue;
     border-style: solid;
-    border-width: 1px;
+    border-width: 4px;
     left: 825px;
     top: 150px;
     z-index: 1;
-    background-color: white;
+    background-color: indigo;
